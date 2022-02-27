@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [constantly learning Angular and React](https://catherinejv.github.io/angular-project/)
 
-- 🌱 I’m currently learning **Angular and React frameworks**
+- 🌱 I’m currently learning **[Angular](https://catherinejv.github.io/angular-project/) and React[(https://catherinejv.github.io/angular-project/)] frameworks**
 
-- 💬 Ask me about **Angular, JS, funny facts**
+- 💬 Ask me about **Angular, JS, fun facts**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/catherine-jodoin-vallieres/?originalSubdomain=ca](https://www.linkedin.com/in/catherine-jodoin-vallieres/?originalSubdomain=ca)
 
-- ⚡ Fun fact **Native french speaker**
+- ⚡ **Native french speaker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
