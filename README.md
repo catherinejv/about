@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [constantly learning Angular and React](https://catherinejv.github.io/angular-project/)
 
-- 🌱 I’m currently learning **[Angular](https://catherinejv.github.io/angular-project/) and React[(https://catherinejv.github.io/angular-project/)] frameworks**
+- 🌱 I’m currently learning **[Angular](https://catherinejv.github.io/angular-project/) and [React](https://catherinejv.github.io/angular-project/) frameworks**
 
 - 💬 Ask me about **Angular, JS, fun facts**
 
