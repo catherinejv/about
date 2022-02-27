@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Catherine Jodoin-Vallières</h1>
 <h3 align="center">A passionate frontend developer from Montreal, Canada</h3>
 
-- 🔭 I’m currently working on [constantly learning Angular and React](https://catherinejv.github.io/angular-project/)
-
 - 🌱 I’m currently learning **[Angular](https://catherinejv.github.io/angular-project/) and [React](https://catherinejv.github.io/angular-project/) frameworks**
 
 - 💬 Ask me about **Angular, JS, fun facts**
